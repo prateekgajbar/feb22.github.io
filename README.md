@@ -37,7 +37,7 @@ You will need either Python or Node.js installed on your machine to run a local 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/sapthesh/Birthday.git](https://github.com/sapthesh/Birthday.git)
+    git clone [https://github.com/
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -74,6 +74,4 @@ For example, to change the name, find the following line in `index.html` and rep
 <h1 class="happy-birthday">Happy Birthday Your-Name</h1>
 ```
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sapthesh/Birthday&type=Date)](https://www.star-history.com/#sapthesh/Birthday&Date)
